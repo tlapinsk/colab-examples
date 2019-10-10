@@ -18,3 +18,10 @@ Steps below:
 5. Create a new Python3 notebook
 6. File > Import > Notebook of your choice
 7. Run notebook
+
+## Datasets
+Below are links to the datasets used in this repository. They are all public and free to use - so don't hesitate to use them for your own personal projects!
+
+- [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
+- [The MNIST Database](http://yann.lecun.com/exdb/mnist/) or import via Keras using `from keras.datasets import mnist`
+
