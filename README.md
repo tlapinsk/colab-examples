@@ -38,4 +38,4 @@ This was the first project I built in this repository. It is directly pulled fro
 
 3. [MNIST Transfer CNN](https://keras.io/examples/mnist_transfer_cnn/)
 
-The second project added to this repo. Again, another simple example pulled from the Keras documentation. It shows how we can train a model on 5 MNIST digits (0-4) and transfer over the learned model to the next 5 digits (5-9). 
+The second project added to this repo. Again, another simple example pulled from the Keras documentation. It shows how we can train a model on the first 5 MNIST digits (0-4) and transfer over the learned model to the next 5 digits (5-9). 
