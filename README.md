@@ -14,7 +14,7 @@ Steps below:
 1. `git clone https://github.com/tlapinsk/colab-examples.git`
 2. `cd colab-examples`
 3. `cd examples`
-4. [Open Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+4. [Open Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 5. Create a new Python3 notebook
 6. File > Import > Notebook of your choice
 7. Run notebook
@@ -30,11 +30,11 @@ This section includes short descriptions of the notebooks that I have created. I
 
 1. [Kaggle Docs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
-There are 4 models trained for this project. They all include small changes to hyperparameters, overall model design, or other small changes. My best model (`dog_vs_cat_classifier_3`) achieved ~96% training accuracy.
+There are 4 models trained for this project. They all include small changes to hyperparameters, overall model design, or other incremental improvements. My best model (`dog_vs_cat_classifier_3`) achieved ~96% training accuracy.
 
 2. [MNIST CNN](https://keras.io/examples/mnist_cnn/)
 
-This was the first project I built in this repository. It is directly pulled from the Keras examples documentation and served as an easy starting point. While rudimentary in nature, it shows you how to easy build a CNN using Keras.
+This was the first project I built in this repository. It is directly pulled from the Keras examples documentation and served as an easy starting point. While rudimentary in nature, it shows you how to easy build a CNN using Keras and gives you an idea of how a neural network is trained.
 
 3. [MNIST Transfer CNN](https://keras.io/examples/mnist_transfer_cnn/)
 
