@@ -30,7 +30,7 @@ This section includes short descriptions of the notebooks that I have created. I
 
 1. [Animals 10](https://www.kaggle.com/alessiocorrado99/animals10)
 
-So far, I have trained one model for the Animals 10 dataset. As the name indicates, it includes 10 classes of animals. The model achieved 96% training accuracy, which I hope to increase using InceptionV3 (transfer learning).
+So far, I have trained one model for the Animals 10 dataset. As the name indicates, it includes 10 classes of animals. The model achieved 96% training accuracy, which I hope to increase using InceptionV3 (transfer learning). The best performing model ([model 4](https://github.com/tlapinsk/colab-examples/blob/master/examples/animals_10_model_4_classifier.ipynb)) achieved 99% accuracy. It may be possible to achieve 99.9% accuracy if trained over more epochs.
 
 2. [Kaggle Docs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
