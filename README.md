@@ -22,9 +22,9 @@ Steps below:
 ## Datasets
 Below are links to the datasets used in this repository. They are all public and free to use - so don't hesitate to use them for your own personal projects!
 
+- [Animals 10 Dataset](https://www.kaggle.com/alessiocorrado99/animals10/download)
 - [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
 - [The MNIST Database](http://yann.lecun.com/exdb/mnist/) or import via Keras using `from keras.datasets import mnist`
-- [Animals 10 Dataset](https://www.kaggle.com/alessiocorrado99/animals10/download)
 
 ## Notebooks
 This section includes short descriptions of the notebooks that I have created. It serves as a high level overview of the projects that are included in this repo.
