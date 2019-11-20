@@ -20,7 +20,7 @@ Steps below:
 7. Run notebook
 
 ## Datasets
-Below are links to the datasets used in this repository. They are all public and free to use - so don't hesitate to use them for your own personal projects!
+Below are links to the datasets used in this repository. They are all public and free to use - so don't hesitate to use them for your own personal projects.
 
 - [Animals 10 Dataset](https://www.kaggle.com/alessiocorrado99/animals10/download)
 - [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
@@ -31,7 +31,7 @@ This section includes short descriptions of the notebooks and networks I have tr
 
 1. [Animals 10](https://www.kaggle.com/alessiocorrado99/animals10)
 
-There are three models trained for the Animals 10 dataset. As the name indicates, it includes 10 classes of animals. The model achieved 96% training accuracy, which I hope to increase using InceptionV3 (transfer learning). 
+There are three models trained for the Animals 10 dataset. As the name indicates, it includes 10 classes of animals. The model achieved 96% training accuracy, which is similar to the Cats vs. Dogs model.
 
 The best performing model ([model 4](https://github.com/tlapinsk/colab-examples/blob/master/examples/animals_10_model_4_classifier.ipynb)) achieved 99% accuracy. It may be possible to achieve 99.9% accuracy if trained over more epochs.
 
