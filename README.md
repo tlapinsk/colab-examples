@@ -5,7 +5,7 @@ It serves as a side project as I do not have a lot of exposure to Machine Learni
 
 If you have any questions, please don't hesitate to reach out at tim.lapinskas@gmail.com. 
 
-P.S. I am also looking for a job :) so do reach out!
+P.S. I am also looking for a job, so do reach out!
 
 ## Deployment Steps
 Below outlines steps for running the notebooks in Google Colab. Note that it is also possible to run these locally using Jupyter Notebook. While neither Colab nor your local laptop will see the performance of a stand alone GPU instance (cloud or local), feel free to try out whatever you see fit.
@@ -33,7 +33,7 @@ This section includes short descriptions of the notebooks and networks I have tr
 
 There are three models trained for the Animals 10 dataset. As the name indicates, it includes 10 classes of animals. The model achieved 96% training accuracy, which is similar to the Cats vs. Dogs model.
 
-The best performing model ([model 4](https://github.com/tlapinsk/colab-examples/blob/master/examples/animals_10_model_4_classifier.ipynb)) achieved 99% accuracy. It may be possible to achieve 99.9% accuracy if trained over more epochs.
+The best performing model ([model 4](https://github.com/tlapinsk/colab-examples/blob/master/examples/animals_10_model_4_classifier.ipynb)) achieved 99% accuracy. It may be possible to achieve 99.9% accuracy if trained over more epochs. 
 
 2. [Kaggle Docs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
