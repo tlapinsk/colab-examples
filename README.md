@@ -5,7 +5,7 @@ This serves as a side project as I do not have a lot of exposure to Machine Lear
 
 If you have any questions, please don't hesitate to reach out at tim.lapinskas@gmail.com. 
 
-P.S. I am also looking for a job, so do reach out if you want to chat! I'm most interested in Product Management positions at this time.
+P.S. I am also looking for a job, so do reach out if you want to chat! I'm most interested in Product Management positions at this time. If Deep Learning is the core backend of your product, even better :)
 
 ## Deployment Steps
 Below outlines steps for running the notebooks in Google Colab. I highly recommend trying out Google Colab before paying for GPU instances in AWS/Azure. They are free to use and in my experience very performant.
