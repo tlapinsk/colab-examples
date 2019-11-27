@@ -22,7 +22,7 @@ Steps below:
 7. Run notebook
 
 ## Datasets
-Below are links to the datasets used in this repository. They are all public and free to use, so don't hesitate to use them for your own personal projects.
+Below are links to the datasets I used. They are all public and free to use, so don't hesitate to use them for your own personal projects.
 
 - [Animals 10 Dataset](https://www.kaggle.com/alessiocorrado99/animals10/download)
 - [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
