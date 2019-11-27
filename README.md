@@ -10,7 +10,7 @@ P.S. I am also looking for a job, so do reach out if you want to chat! I'm most 
 ## Deployment Steps
 Below outlines steps for running the notebooks in Google Colab. I highly recommend trying out Google Colab before paying for GPU instances in AWS/Azure. They are free to use and in my experience very performant.
 
-Note that it is also possible to run these locally using Jupyter Notebook. While neither Colab nor your local laptop will see the performance of a stand alone GPU instance (cloud or local), feel free to try out whatever you see fit.
+Note, that it is also possible to run these locally using Jupyter Notebook. While neither Colab nor your local laptop will see the performance of a stand alone GPU instance (cloud or local), feel free to try out whatever you see fit.
 
 Steps below: 
 1. `git clone https://github.com/tlapinsk/colab-examples.git`
