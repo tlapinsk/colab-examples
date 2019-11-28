@@ -22,7 +22,7 @@ Steps below:
 7. Run notebook
 
 ## Datasets
-Below are links to the datasets I used. They are all public and free to use, so don't hesitate to use them for your own personal projects.
+Below are links to the datasets I used. They are all public and free to use, so don't hesitate to use them for your own personal projects. Kaggle is a great place to find ML/DL data sets that are pre-labeled.
 
 - [Animals 10 Dataset](https://www.kaggle.com/alessiocorrado99/animals10/download)
 - [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
