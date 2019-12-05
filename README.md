@@ -23,7 +23,7 @@ Steps below:
 
 When running in a Colab notebook, be sure to back it with a GPU. You can do this via: Edit > Notebook settings > Hardware accelerator > GPU.
 
-You can also try using a [TPU](https://cloud.google.com/tpu/). In my testing, I didn't see a performance increase using a TPU. In fact, the TPU was slower than the GPU backed notebook.
+You can also try using a [TPU](https://cloud.google.com/tpu/). In my testing, I didn't see a performance increase using a TPU. In fact, the TPU was slower than the GPU backed notebook. I may have to do some more research, but it could possibly be due to CNN training performing better on a GPU.
 
 ## Datasets
 Below are links to the datasets I used. They are all public and free to use, so don't hesitate to use them for your own personal projects. Kaggle is a great place to find ML/DL data sets that are pre-labeled. As many know, lableing is time consuming. You may want to consider using AWS Mechanical Turk to outsource your labeling. 
