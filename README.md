@@ -47,7 +47,7 @@ There are 4 models trained for this project. They all include small changes to h
 
 3. [MNIST GAN](https://github.com/tlapinsk/colab-examples/blob/master/examples/gans_1.ipynb)
 
-This model trains a network to create "fake" MNIST images. Shoutout to Wouter Bulten for the [code sample](https://github.com/wouterbulten/deeplearning-resources/blob/master/notebooks/1%20-%20Getting%20started%20with%20Generative%20Adversarial%20Networks%20using%20Keras%20and%20MNIST.ipynb). None of this code is my own for now. I may rework some of it if needed. 
+This model trains a network to create "fake" MNIST images. Shoutout to Wouter Bulten for the [code sample](https://github.com/wouterbulten/deeplearning-resources/blob/master/notebooks/1%20-%20Getting%20started%20with%20Generative%20Adversarial%20Networks%20using%20Keras%20and%20MNIST.ipynb). None of this code is my own for now. I may refactor if needed.
 
 4. [MNIST CNN](https://keras.io/examples/mnist_cnn/)
 
